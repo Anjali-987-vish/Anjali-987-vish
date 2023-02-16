@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjali-987-vish&label=Profile%20views&color=0e75b6&style=flat" alt="Anjali-987-vish" /> </p>
 
-- 🙌 I'm currently working on DSA and Web Development.
+- 📘 I'm currently pursuing B.Tech in Information Technology.
+- 😁 I'm interested in Web Development.
+- 🙌 I'm currently working on my Web Development and DSA.
 - 📫 How to reach me **vishwakarmaanjali946@gmail.com**
 
 <h3 align="left">Socials :</h3>
