@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A passionate Web developer.</h3>
 <img align = "right" alt="coding" width ="400" src = "https://user-images.githubusercontent.com/92050489/219383011-c50350ca-fa38-455a-9a13-a4f038d06307.png"
 />
 
